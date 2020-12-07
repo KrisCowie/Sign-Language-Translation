@@ -8,3 +8,5 @@ So here's a quick proof of concept to translate sign language in real time using
 Next Steps - using Labelbox' hand key framing to both label, and box more videos to expand the dataset
 As well as record the signs being sent to the video
 You could potentially use something similar to "translate" body language / human emotion, which could be useful for people on the autistic spectrum
+
+I'd managed to label four different videos, and write the code in 24 hours. If you'd like access to the datasets the labeling created, let me know!
