@@ -1,5 +1,8 @@
 # Sign-Language-Translation
-Translating Sign Language from your webcam in real time
+
+Convolutional Neural Networks for real time translation of American Sign Language in Python
+  - Script constructs the model from the relevant dataset
+  - Second script starts your webcam, and takes in each frame as an individual input, preprocesses it, and runs the model against it to predict the letter you are signing
 
 This was a quick, 24 hr project - we had been working on NLP for the week, and the project prompt was to come up with a translator from say, French to English
 
